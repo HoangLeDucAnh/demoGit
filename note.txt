@@ -3,4 +3,4 @@
 + chọn: git add -A (git status: show status)
 + xác nhận: git commit -m "message"
 + đẩy: for the first time ~ git push -u origin master
-       next time ~ git push
+       next time ~ git push 
