@@ -1,6 +1,13 @@
 - Khởi tạo repository: git init
-- Push code từ local lên remote: 3 bước 
+
+
+- Push code from local repository to remote repository: 3 steps 
 + choose file that need to push: git add -A (git status: show status)
 + leave a message why you push that ( for update, remove file, ...): git commit -m "message"
-+ đẩy: for the first time ~ git push -u origin master
++ push: for the first time ~ git push -u origin master
        next time ~ git push 
+
+
+*branch
+- create new branch (different to branch master): git checkout -b "branchName"
+- switch to another branch: git checkout "anotherBranch"
