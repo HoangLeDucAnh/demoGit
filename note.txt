@@ -12,3 +12,6 @@
 - create new branch (different to branch master): git checkout -b "branchName"
 - switch to another branch: git checkout "anotherBranch"
 - switch to new branch (different to branch master): git checkout -b "branchName"
+
+
+*merge conflict
