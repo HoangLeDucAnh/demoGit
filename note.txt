@@ -14,6 +14,6 @@
 - switch to new branch (different to branch master): git checkout -b "branchName"
 
 
-*merge
-abc
-abcdefgh
+*merge conflict
+{}
+abcdef
