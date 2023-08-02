@@ -19,6 +19,11 @@
 abcdef
 
 
+<<<<<<< HEAD
 ducanh stand at master
 ducanh create at 9h30 at feature
 ducanh stand at master at 10h
+=======
+ducanh create at 9h30 at feature
+ducanh stand at feature at 10h
+>>>>>>> feature
